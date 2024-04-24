@@ -13,3 +13,5 @@
 4. [Review_on_Chatbot_Design_Techniques_in_Speech_Conversation_Systems - D. J. W. Sameera A. Abdul-Kader](https://www.researchgate.net/publication/329147103_)
 5. [Pandorabots](https://en.wikipedia.org/wiki/Pandorabots)
 6. [M. Ward]()
+7. [career counselling chatbot Using Cognitive Science and Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-981-15-3242-9_1#Sec1)
+8. 
